@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prtechnologiesus.com/sitemap.xml
